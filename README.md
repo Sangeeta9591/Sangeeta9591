@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning with Python**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sangeeta9591](https://github.com/Sangeeta9591)
 
