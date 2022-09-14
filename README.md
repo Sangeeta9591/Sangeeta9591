@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sangeeta Kambali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web Devlopment**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sangeeta9591](https://github.com/Sangeeta9591)
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/balachandra athani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balachandra athani" height="30" width="40" /></a>
 <a href="https://instagram.com/sangeeta.a.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangeeta.a.k" height="30" width="40" /></a>
 </p>
 
